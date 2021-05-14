@@ -1,0 +1,9 @@
+{
+  "/dogs/_breed": "pages/dogs/_breed.js",
+  "/dogs": "pages/dogs.html",
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
